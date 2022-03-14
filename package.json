@@ -1,0 +1,29 @@
+{
+  "name": "next-js-practice",
+  "version": "1.0.0",
+  "description": "A repo to learn and practice Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deannadunne1/next-js-practice.git"
+  },
+  "author": "Deanna Dunne <deanna.dunne@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deannadunne1/next-js-practice/issues"
+  },
+  "homepage": "https://github.com/deannadunne1/next-js-practice#readme",
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "util": "^0.12.4",
+    "whatwg-url": "^11.0.0"
+  }
+}
